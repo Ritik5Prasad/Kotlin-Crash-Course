@@ -1,0 +1,9 @@
+{
+    "name": "kotlin-project",
+    "version": "1.0.0",
+    "scripts": {
+      "run-clean": "node compile-run-clean.js"
+    },
+    "dependencies": {}
+  }
+  
